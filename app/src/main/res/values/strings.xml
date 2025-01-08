@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MyKalkulator</string>
+    <string name="hint">Masukan angka</string>
+    <string-array name="MyOPerator">
+        <item>Tambah</item>
+        <item>Kurang</item>
+        <item>Kali</item>
+        <item>Bagi</item>
+    </string-array>
+    <string name="hints">Masukan satuan Farenheit</string>
+    <string name="tbHitung">Hitung</string>
+    <string name="psnErrorNol">Pembagi tidak boleh angka 0!</string>
+    <string name="pindah_halamann">Pindah_halaman</string>
+    <string name="Kalkulator">Kalkulator</string>
+    <string name="kamu_membuka_halaman_baru">Kamu membuka Halaman Baru</string>
+
+</resources>
